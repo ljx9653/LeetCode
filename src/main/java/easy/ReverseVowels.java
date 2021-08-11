@@ -1,4 +1,4 @@
-package easy;
+package main.java.easy;
 
 import java.util.ArrayList;
 import java.util.Random;

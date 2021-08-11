@@ -1,4 +1,4 @@
-package easy;
+package main.java.easy;
 
 /**
  * 7. 整数反转
